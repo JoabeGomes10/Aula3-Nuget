@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxmHo9mp+/AJ1IRAM0r8/gDfqocuu9vbOxdClOyTuePyua2ofze/mERJimBmdp/us8Kc6VDJiv4HnoCkMXwsRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joabe\\Desktop\\ControleFinanceiro\\ControleFinanceiro.API\\ControleFinanceiro.API\\ControleFinanceiro.API\\ControleFinanceiro.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joabe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Joabe\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
